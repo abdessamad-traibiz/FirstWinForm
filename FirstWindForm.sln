@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWindForm", "FirstWindForm.csproj", "{F661F904-80A9-4E22-B6DA-59944EB17929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F661F904-80A9-4E22-B6DA-59944EB17929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F661F904-80A9-4E22-B6DA-59944EB17929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F661F904-80A9-4E22-B6DA-59944EB17929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F661F904-80A9-4E22-B6DA-59944EB17929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A04FCF2-A171-4C2E-B2F5-4D58FDA70147}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\bin\Debug\FirstWindForm.exe.config
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\bin\Debug\FirstWindForm.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\bin\Debug\FirstWindForm.pdb
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.csprojAssemblyReference.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.Form1.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.Properties.Resources.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.csproj.GenerateResource.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\FirstWindForm\obj\Debug\FirstWindForm.pdb
