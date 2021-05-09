@@ -64,13 +64,9 @@ namespace FirstWindForm
             string name = textNom.Text;
             string prenom = textPrenom.Text;
             string adresse = textAdresse.Text;
-            MessageBox.Show("InfosUser : \n" + "  Nom :" + name + "\n  Prénom : " + prenom + "\n  Adresse : " + adresse);
-
+            MessageBox.Show("InfosUser : \n\n" + "  Nom :" + name + "\n  Prénom : " + prenom + "\n  Adresse : " + adresse);
             groupBox1.Text = "UserInfos";
         }
-
-
-
         }
     }
 
